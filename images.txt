@@ -7,3 +7,4 @@ nginx
 #siyuan笔记
 b3log/siyuan
 bitnami/gitea
+vaultwarden/server

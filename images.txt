@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 #siyuan笔记
 b3log/siyuan
+bitnami/gitea

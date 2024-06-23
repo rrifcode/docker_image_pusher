@@ -8,3 +8,4 @@ nginx
 b3log/siyuan
 bitnami/gitea
 vaultwarden/server
+nginx-proxy-manager-zh
